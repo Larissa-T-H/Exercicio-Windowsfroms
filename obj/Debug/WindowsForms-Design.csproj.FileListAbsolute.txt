@@ -1,0 +1,11 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\bin\Debug\WindowsForms-Design.exe.config
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\bin\Debug\WindowsForms-Design.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\bin\Debug\WindowsForms-Design.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\obj\Debug\WindowsForms-Design.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\obj\Debug\WindowsForms-Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\obj\Debug\WindowsForms_Design.Form1.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\obj\Debug\WindowsForms_Design.Properties.Resources.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\obj\Debug\WindowsForms-Design.csproj.GenerateResource.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\obj\Debug\WindowsForms-Design.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\obj\Debug\WindowsForms-Design.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Design\obj\Debug\WindowsForms-Design.pdb
